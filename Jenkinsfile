@@ -25,7 +25,7 @@ pipeline {
 
         stage('Run Container') {
             steps {
-                sh 'docker build -d -p 5000:5000 --name flask-auth-app flask-auth-app'
+                sh 'docker run -d -p 5000:5000 --name flask-auth-app flask-auth-app'
             }
         }
 
