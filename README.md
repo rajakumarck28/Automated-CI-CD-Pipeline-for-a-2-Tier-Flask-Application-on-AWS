@@ -380,3 +380,8 @@ Flask + MySQL Containers
    ↓
 AWS EC2 Deployment
 ```
+<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/9f3ff503-65d9-4391-ac76-0117fc59958f" />
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/b0b00866-bb6a-4090-9fae-b35062811ce2" />
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/6904dbf3-df54-44b0-8943-f32d76b52f50" />
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/2b5be0df-0316-47f8-85fd-9a9336bfca02" />
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/0e1117d3-d18e-47f2-8686-d1080d407f5c" />
