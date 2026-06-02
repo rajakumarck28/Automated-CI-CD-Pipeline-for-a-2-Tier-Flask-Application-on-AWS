@@ -1,8 +1,5 @@
 # DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
-**Author:** Rajakumar Kalashetti  
-**Date:** May 19, 2026
-
 ---
 
 # Table of Contents
